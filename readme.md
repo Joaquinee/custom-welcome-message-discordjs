@@ -9,8 +9,8 @@ UN message doit obligatoirement  contenir la mention '@member', sinon le membre 
 
 ##Configuration du Bot
 
-Token du Bot : Modifiez le fichier messages.json pour configurer le TOKEN du bot en remplaçant 'TOKEN : TOKENBOT'.
-Salon de Discussion : Modifiez le fichier index.js pour configurer le salon en remplaçant 'salon : IDCHANNEL'.
+Token du Bot : Modifiez le fichier messages.json pour configurer le TOKEN du bot en remplaçant 'TOKEN' par votre TOKEN.
+Salon de Discussion : Modifiez le fichier index.js pour configurer le salon en remplaçant 'salon' par l'ID du salon.
 Messages du Bot : Modifiez le fichier messages.json pour configurer les messages à envoyer.
 
 ###Utilisation des Tags dans les Messages
