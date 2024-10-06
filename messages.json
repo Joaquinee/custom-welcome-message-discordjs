@@ -1,0 +1,66 @@
+
+{
+    "TOKEN": "MTI4NjI0ODI0ODcxMzAxOTQwNA.GuAe-h.2KorXmt1-wTJLGFcxTaTfpDqGrupZV776qiIyI",
+    "salon": "1292045555274485802",
+    "messages": [
+      {
+        "type": "text",
+        "content": "Bienvenue @member ! Slash FR est un serveur communautaire...", 
+        "delay": 2000
+      },
+      {
+        "type": "embed",
+        "content": {
+          "title": "**Découvre Notre serveur**",
+          "image": "https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp",
+          "description": "Tu veux de l'aide ? Viens dans <#1286315243160604773> pour discuter de ta préférence ! <:visage:1292182745337954345>",
+          "color": 3447003
+        },
+        "buttons": [
+          {
+            "label": "Test",
+            "emoji": "😀",
+            "style": "PRIMARY",
+            "customId": "quest"
+          }
+        ],
+        "delay": 3000
+      },
+      {
+        "type": "text",
+        "content": "**Voici quelques actions pour commencer :**",
+        "buttons": [
+          {
+            "label": "Button 1",
+            "style": "PRIMARY",
+            "emoji": "😍",
+            "customId": "quest"
+          },
+          {
+            "label": "Button 2",
+            "emoji": "😎",
+            "style": "SECONDARY",
+            "customId": "roles"
+          },
+          {
+            "label": "Salons vocaux inédits",
+            "emoji": "<:visage:1292182745337954345>",
+            "style": "SUCCESS",
+            "customId": "vocal"
+          }
+        ],
+        "delay": 3500
+      },
+      {
+        "type": "text",
+        "content": "Amuse-toi bien et à la prochaine !",
+        "delay": 2000
+      },
+      {
+        "type": "text",
+        "content": "*Par contre ta PP est moche 😒*",
+        "delay": 2000
+      }
+    ]
+  }
+  
